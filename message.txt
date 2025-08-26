@@ -1,0 +1,6 @@
+Hello World
+This is a test message
+Caesar Cipher is simple and fun
+We can encrypt and decrypt text
+Programming in C++ is enjoyable
+Keep learning and practicing every day
